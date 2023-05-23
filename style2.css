@@ -1,0 +1,40 @@
+body {
+    font-family: 'Courier New', Courier, monospace, Arial, sans-serif;
+    margin: 0;
+    padding: 20;
+    background-image: url("hizmetler.jpg");
+}
+
+h1 {
+    color: 0A4D68;
+    font-size: 28px;
+}   
+nav ul {
+    list-style-type: none;
+    padding: 0;
+
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+
+}
+
+p {
+    color: 77037B;
+    font-size: 20px;
+    font-family:'Courier New', Arial, Helvetica, sans-serif;
+    text-align: center;
+}

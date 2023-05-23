@@ -1,0 +1,41 @@
+body {
+    font-family:  'Courier New', Courier, monospace, Arial, sans-serif;
+    background-color: #f1f1f1;
+    background-image: url("hizmetler.jpg");
+}
+
+
+.container {
+    padding: 16px;
+    background-color: white;
+    padding: 16px auto;
+}
+
+form {
+    border: 3px solid #f1f1f1;
+    width: 50%;
+    margin: 100 auto;
+    padding: auto;
+    border : 0px solid #ccc;
+}
+
+input[type=text],
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px auto;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #8D7B68;
+    color: white;
+    padding: 14px auto;
+    margin: 8px auto;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
